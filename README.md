@@ -28,5 +28,5 @@
 | Четверг     | Физра                 |
 | Пятница     | Дифур                 |
 ## Как со мной связаться: 📎
-- [Telegram](t.me/redcontest)
+- [Telegram](https://t.me/redcontest)
 - [VK](https://vk.com/palm_mute)
